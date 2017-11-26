@@ -2016,10 +2016,10 @@ div {
   left                : 0px;
   border-radius       : 3px;
 
+
 }
 
 .a12-reward-saver-cross-sell-proposed1-fill-before .view22 .group4 .rectangle6:hover {
-  display             :none;
   top                 : 0px;
   height              : 44px;
   width               : 140px;
@@ -2027,6 +2027,7 @@ div {
   margin              : 0;
   left                : 0px;
   border-radius       : 3px;
+    cursor              : pointer;
 
 }
 
@@ -2067,6 +2068,7 @@ div {
   border-style        : solid;
   border-width        : 1;
   border-color        : rgba(75, 97, 110, 1.0);
+  cursor              : pointer;
 }
 
 

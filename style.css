@@ -1168,6 +1168,7 @@ input[type="number"]{
   position            : absolute;
   margin              : 0;
   left                : 673px;
+  cursor              : pointer;
 }
 .a11-reward-saver-cross-sell-proposed1-before .button-help-cal .rectangle50 {
   background          : rgba(255, 255, 255, 0.0);

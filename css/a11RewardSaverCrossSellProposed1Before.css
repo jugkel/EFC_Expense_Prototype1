@@ -1191,13 +1191,13 @@ input[type="number"]{
 
 .a11-reward-saver-cross-sell-proposed1-before .button-help-cal .rectangle50:hover {
 
-  display              :none;
   top                 : 0px;
   height              : 42px;
   width               : 130px;
   position            : absolute;
   margin              : 0;
   left                : 4px;
+  cursor              : pointer;
 }
 
 
@@ -1217,6 +1217,11 @@ input[type="number"]{
   text-align          : center;
   line-height         : 18.0px;
 }
+
+.a11-reward-saver-cross-sell-proposed1-before .button-help-cal .help-me-calculate:hover{
+  cursor              : pointer;
+}
+
 .a11-reward-saver-cross-sell-proposed1-before .total-expenses {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 936px;

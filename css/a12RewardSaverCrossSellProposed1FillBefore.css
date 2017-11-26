@@ -2019,7 +2019,6 @@ div {
 }
 
 .a12-reward-saver-cross-sell-proposed1-fill-before .view22 .group4 .rectangle6:hover {
-  display             :none;
   top                 : 0px;
   height              : 44px;
   width               : 140px;
@@ -2027,7 +2026,7 @@ div {
   margin              : 0;
   left                : 0px;
   border-radius       : 3px;
-
+  cursor              : pointer;
 }
 
 .a12-reward-saver-cross-sell-proposed1-fill-before .view22 .group4 .save-changes {
@@ -2046,6 +2045,11 @@ div {
   text-align          : center;
   line-height         : 18.0px;
 }
+
+.a12-reward-saver-cross-sell-proposed1-fill-before .view22 .group4 .save-changes{
+  cursor             : pointer;
+}
+
 .a12-reward-saver-cross-sell-proposed1-fill-before .group5 {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 981px;
@@ -2069,7 +2073,6 @@ div {
   border-color        : rgba(75, 97, 110, 1.0);
 }
 
-
 .a12-reward-saver-cross-sell-proposed1-fill-before .group5 .cancel {
   background          : rgba(255, 255, 255, 0.0);
   top                 : 13px;
@@ -2086,6 +2089,12 @@ div {
   text-align          : center;
   line-height         : 18.0px;
 }
+
+.a12-reward-saver-cross-sell-proposed1-fill-before .group5 .rectangle6-copy:hover,
+.a12-reward-saver-cross-sell-proposed1-fill-before .group5 .cancel:hover {
+  cursor              : pointer;
+}
+
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
