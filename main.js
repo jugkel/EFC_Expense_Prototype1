@@ -11,7 +11,7 @@ $(document).ready(function(){
   })
 
   $('.button-help-cal').click(function(){
-     window.location.href='file:///Users/userUser/Desktop/AnimaPackage-Web-HzzC0/a12rewardsavercrosssellproposed1fillbefore.html';
+     window.location.href='a12rewardsavercrosssellproposed1fillbefore.html';
   });
 
 
@@ -99,7 +99,7 @@ function testCall(){
 
 
 
-// 
+//
 //   window.onbeforeunload = function() {
 //   sessionStorage.clear();
 //   return '';
