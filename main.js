@@ -11,16 +11,16 @@ $(document).ready(function(){
   })
 
   $('.button-help-cal').click(function(){
-     window.location.href='a12rewardsavercrosssellproposed1fillbefore.html';
+     window.location.href='../EFC_expense_prototype1/a12rewardsavercrosssellproposed1fillbefore.html';
   });
 
 
     $('.a12-reward-saver-cross-sell-proposed1-fill-before .view22 .group4').click(function(){
-       window.location.href='index.html?showTotal=' +showTotal;
+       window.location.href='../EFC_expense_prototype1/index.html?showTotal=' +showTotal;
     });
 
     $('.a12-reward-saver-cross-sell-proposed1-fill-before .group5 .rectangle6-copy').click(function(){
-       window.location.href='index.html';
+       window.location.href='../EFC_expense_prototype1/index.html';
     });
 
 
